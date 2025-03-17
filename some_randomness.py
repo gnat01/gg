@@ -1,4 +1,6 @@
 import random as random
+import numpy ad np
+import matplotlib.pyplot as plt # useful for plottin' and schemin'
 
 min_val = 0
 max_val = 10
